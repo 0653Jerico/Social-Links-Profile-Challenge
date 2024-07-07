@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Active-view.png) - Active View
-![](./images/Desktop-view.png) - Desktop View
-![](./images/Mobile-view.png) - Mobile View
+![](./output/Active-view.png) - Active View
+![](./output/) - Desktop View
+![](./output/) - Mobile View
 
 
 ### Links
