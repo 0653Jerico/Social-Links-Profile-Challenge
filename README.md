@@ -27,8 +27,8 @@ Users should be able to:
 ### Screenshot
 
 ![](./output/Active-view.png) - Active View
-![](./output/) - Desktop View
-![](./output/) - Mobile View
+![](./output/DesktopView.png) - Desktop View
+![](./output/MobileView.png) - Mobile View
 
 
 ### Links
@@ -46,17 +46,18 @@ Users should be able to:
 
 ### What I learned
 
-I learned a lot during this challenge and took me some time to complete it. I learned how to use CSS variables as well as understand a little bit the width, min and max width of the body. 
+I learned a lot during this retake on the challenge and took me some time to get the design that somehow copies the original using new properties learned. I understood a little bit the use of clamp() in CSS.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will continue using the most common used properties and the advanced properties soon as I go up higher.
 
 ### Useful resources
 
 - [Google Fonts](https://www.fonts.google.com) - Still using this website to get my fonts, it is easy and contains a lot of fonts.
 - [W3schools](https://www.w3schools.com) - I still rely on this website since it provides simplified explanations with examples.
 - [Stack Overflow](https://www.stackoverflow.com) - Search over the internet for some solutions to my problems and found it here, it was a big help.
+-[ChatGpt](https:/chat.openai.com) - I used the AI chat to help assisst me in understanding the concepts that I am having difficulty understanding.
 
 ## Author
 
@@ -65,4 +66,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-Big thanks to @danielmrz-dev and @DylandeBrujin for commenting useful information in my last challenge which helped me with this challenge. Big thanks also to Frontend Mentor for providing such a wonderful website where people can learn and be taught for free. 
+Big thanks to @danielmrz-dev, @DarkstarXDD and @DylandeBrujin for commenting useful information in my last challenge which helped me with this challenge. Big thanks also to Frontend Mentor for providing such a wonderful website where people can learn and be taught for free. 
