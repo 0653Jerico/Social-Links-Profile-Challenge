@@ -42,34 +42,47 @@
     }
 
     h1{
-      font-size: clamp(1rem, 100vw, 1.7rem);
+      font-size: clamp(1.3rem, 5vw, 1.7rem);
       font-weight: 600;
       color: var(--white);
       margin-bottom: .5rem;
     }
 
     .address{
-      font-size: clamp(.8rem, 100vw, 1rem);
+      font-size: clamp(.8rem, 5vw, 1rem);
       font-weight: 600;
       color: var(--green);
       margin-bottom: 1.5em;
     }
 
     .address + p{
-      font-size: clamp(.5rem, 100vw, .8rem);
+      font-size: clamp(.8rem, 3vw, .9rem);
       font-weight: 400;
       color: var(--white);
       margin-bottom: 2em;
     }
 
+    ul{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 0 .5em;
+    }
+
     ul li{
-      font-size: clamp(.9rem, 100vw, .6rem);
+      font-size: clamp(.3rem, 5vw, .9rem);
       font-weight: 600;
+      text-align: center;
       width: 100%;
       padding: 1em;
       background-color: var(--grey);
-      margin-bottom: 1.5em;
+      margin-bottom: 1em;
       border-radius: .5em;
+    }
+
+    ul li:last-child{
+      margin-bottom: .1em;
     }
 
     ul li:hover{
@@ -84,4 +97,11 @@
 
     ul li a{
       color: var(--white);
+    }
+
+    @media screen and (max-width: 375px){
+      
+      main{
+        padding: 1em;
+      }
     }
